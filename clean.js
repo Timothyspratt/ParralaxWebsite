@@ -1,3 +1,4 @@
+// work on notes
 const menu = document.getElementById("menu");
 
 Array.from(document.getElementsByClassName("menu-item"))
