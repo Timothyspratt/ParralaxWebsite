@@ -14,3 +14,5 @@ Array.from(document.getElementsByClassName("menu-item"))
             menu.style.setProperty("--active-index", index)
         }
     });
+
+    //still working on more notes. 
